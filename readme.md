@@ -35,9 +35,9 @@ reported passed the threshold:
 ## Notes
 
 
-Do not use external services - it should be implemented in a single process by your code.
-Implement the above in GO.
-Make sure service has no resource leaks.
-Logging will be appreciated.
-Clean code will be appreciated.
+* Do not use external services - it should be implemented in a single process by your code.
+* Implement the above in GO.
+* Make sure service has no resource leaks.
+* Logging will be appreciated.
+* Clean code will be appreciated.
 
